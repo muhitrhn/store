@@ -1,0 +1,14 @@
+{
+  "name": "Mango",
+  "symbol": "MANGO",
+  "description": "Mango is the native utility token powering the Fractured Ape internal ecosystem of reward and incentives.",
+  "seller_fee_basis_points": 0,
+  "image": "https://www.arweave.net/EbhMfFurjYIa45qnqoea0t-g7fxiw0cHkTZQMLwT7n0?ext=png",
+  "external_url": "",
+  "properties": {
+    "category": "image",
+    "files": [
+      {}
+    ]
+  }
+}
